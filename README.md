@@ -74,6 +74,13 @@ accuracy of image analysis. Below is how the fish population is calculated based
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/vihangad/IoT-based-Pet-Fish-Farming-Management-System/blob/master/Diagrams/06.jpg?raw=true" alt="Diagram" width="auto" height="auto"/> </a> </p>
 
   
- 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/deshanonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deshanonline" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deshanonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshanonline" height="30" width="40" /></a>
+<a href="https://fb.com/deshanonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deshanonline" height="30" width="40" /></a>
+<a href="https://instagram.com/deshanonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deshanonline" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vihangadeshanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vihangadeshanofficial" height="30" width="40" /></a>
+</p>
 
   
