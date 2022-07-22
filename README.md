@@ -68,7 +68,7 @@ accuracy of image analysis. Below is how the fish population is calculated based
 <h2>Web UI Design</h2>
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/vihangad/IoT-based-Pet-Fish-Farming-Management-System/blob/master/Diagrams/05.jpg?raw=true" alt="Diagram" width="auto" height="auto"/> </a> </p>
 
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/vihangad/IoT-based-Pet-Fish-Farming-Management-System/blob/master/Diagrams/05.jpg?raw=true" alt="Diagram" width="auto" height="auto"/> </a> </p>
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/vihangad/IoT-based-Pet-Fish-Farming-Management-System/blob/master/Diagrams/06.jpg?raw=true" alt="Diagram" width="auto" height="auto"/> </a> </p>
 
   
  
