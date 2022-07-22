@@ -29,7 +29,7 @@ sometimes due to errors in observations financial losses can be occurred.</li>
 save time as well.</li>
   </p>
 
-<h2>Hardware Requirement
+<h2>Hardware Requirement</h2>
   <li>Liquid Water PH Value Detection Sensor with Control Board</li>
   <li>ESP32 OV2640 Camera Bluetooth Wi-Fi Board</li>
   <li>Digital Waterproof Temperature Probe DS18B20 100CM</li>
@@ -38,23 +38,38 @@ save time as well.</li>
   <li>Servo Motor SG90 9G Micro Servo Motor</li>
   <li>Water Level Float Switch</li>
   <li>Raspberry Pi</li>
-</h2>
 
-<h2>
+
+<h2>Software requirement </h2>
   <li>Arduino Language</li>
   <li>Blynk Server</li>
   <li>Fritzing</li>
   <li>Open CV</li>
   <li>Open CV</li>
   <li>SQLite</li>
-</h2>
+
 
 <h2> Physical Design</h2>
-<p>There are two main types of this system. Below is the section that uses all the environmental data 
-and other features of the fish tank from those two parts.
-</p>
+<p>There are two main types of this system.</p>
 
+<h2> Part #01 - Diagram</h2>
+<p>Below is the section that uses all the environmental data 
+and other features of the fish tank</p>
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/vihangad/IoT-based-Pet-Fish-Farming-Management-System/blob/master/Diagrams/01.jpg?raw=true" alt="Diagram" width="auto" height="auto"/> </a> </p>
+
+<h2> Part #02 - Diagram</h2>
+<p>The second part of this system is to calculate the fish population based on the images. Due 
+to the diversity and complexity of the underwater environment, underwater images are usually 
+subjected to intense noise, which reduces the quality of the underwater images and affects the 
+accuracy of image analysis. Below is how the fish population is calculated based on the images.
+</p>
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/vihangad/IoT-based-Pet-Fish-Farming-Management-System/blob/master/Diagrams/02.jpg?raw=true" alt="Diagram" width="auto" height="auto"/> </a> </p>
+
+<h2>Web UI Design</h2>
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/vihangad/IoT-based-Pet-Fish-Farming-Management-System/blob/master/Diagrams/05.jpg?raw=true" alt="Diagram" width="auto" height="auto"/> </a> </p>
+
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/vihangad/IoT-based-Pet-Fish-Farming-Management-System/blob/master/Diagrams/05.jpg?raw=true" alt="Diagram" width="auto" height="auto"/> </a> </p>
+
   
  
 
